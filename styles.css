@@ -1,0 +1,18 @@
+body{
+    background-color: lightgray;
+}
+
+.container{
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer a{
+    text-decoration: none;
+}

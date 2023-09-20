@@ -1,0 +1,66 @@
+body{
+    background-color: #E7E9EB;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    background-color: black;
+    color: #84c754;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+
+header h1{
+    margin-bottom: 0px;
+}
+
+header p{
+    margin-top: 0px;
+ }
+
+.nav-bar a{
+    color: #84c754;
+}
+
+.nav-bar a:hover{
+    color: white;
+}
+
+section a{
+    color: white;
+}
+
+section a:hover{
+    color: #84c754;
+}
+
+.buttom-content{
+    color: white;
+}
+
+.side-bar{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.finalP{
+    border: 1px solid white;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+    font-size: larger;
+    padding-top: 30px;
+}
+
+footer a{
+    text-decoration: none;
+}

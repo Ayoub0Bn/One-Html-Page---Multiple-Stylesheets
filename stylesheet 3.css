@@ -1,0 +1,77 @@
+/* Reset some default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgrey;
+    font-family: Verdana, sans-serif;
+}
+
+.container{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.container h1, h2, h3{
+    color: #4CAF50;
+}
+
+.nav-bar{
+    
+    color:white;
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color: white;
+}
+.nav-bar li{
+    display: inline-block;
+    margin: 10px;
+    background-color: #555555;
+    border-radius: 20px;
+    padding: 10px 20px;
+
+}
+
+.nav-bar li:hover{
+    background-color: black;
+}
+
+.li-div{
+    display: inline-block;
+}
+
+.side-bar{
+    background-color: lightgray;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.side-bar2{
+    background-color: lightgray;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+
+.final-p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-size: larger;
+    padding: 20px;
+}
+
+footer a{
+    text-decoration: none;
+}
