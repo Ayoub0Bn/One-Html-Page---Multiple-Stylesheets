@@ -7,16 +7,17 @@ This GitHub repository hosts a simple yet versatile webpage that demonstrates th
 
 **Features:**
 
-**Stylesheet Selection:** The webpage includes a menu that allows users to choose from several stylesheets, each with its unique design and layout.
-**Responsive Design:** The webpage is responsive, ensuring a seamless user experience across various devices and screen sizes.
-**No Styles Option:** Users can also experience the page without any applied styles, emphasizing the importance of CSS in web development.
++ **Stylesheet Selection:** The webpage includes a menu that allows users to choose from several stylesheets, each with its unique design and layout.
+- **Responsive Design:** The webpage is responsive, ensuring a seamless user experience across various devices and screen sizes.
+* **No Styles Option:** Users can also experience the page without any applied styles, emphasizing the importance of CSS in web development.
 
 **Project Structure:**
 
-i**ndex.html:** The main webpage with a default style.
++ **index.html:** The main webpage with a default style.
 index1.html, index2.html, index3.html, and index4.html: Additional HTML pages with different stylesheets applied.
-**styles.css:** The default stylesheet for the main webpage.
-stylesheet(1/2/3/4).css: An alternates stylesheets with different styling elements.
+- **styles.css:** The default stylesheet for the main webpage.
+* stylesheet(1/2/3/4).css: An alternates stylesheets with different styling elements.
+* 
 Feel free to explore the various stylesheets and their impact on the webpage's appearance. We encourage you to experiment with different styles to gain insights into the creative possibilities of web design.
 
 **Contributions and Feedback:**
